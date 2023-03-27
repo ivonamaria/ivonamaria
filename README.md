@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivona!</h1>
-<h3 align="center">Welcome to my GitHub profile! As a software development trainee and tech enthusiast, I thrive on solving complex problems and creating innovative solutions. Please take a moment to peruse my portfolio and don't hesitate to reach out if you have any queries or are interested in collaborating on a project. I am eager to explore fresh opportunities and connect with fellow professionals who share my passions.</h3>
+Welcome to my GitHub profile! As a software development trainee and tech enthusiast, I thrive on solving complex problems and creating innovative solutions. Please take a moment to peruse my portfolio and don't hesitate to reach out if you have any queries or are interested in collaborating on a project. I am eager to explore fresh opportunities and connect with fellow professionals who share my passions.
 
 - 🌱 I’m currently learning - **JavaScript, React!**
-
-- 👨‍💻 All of my projects are available at - [portfolio soon to come!](portfolio soon to come!)
 
 - 💬 Ask me about **anything you want!**
 
